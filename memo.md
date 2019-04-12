@@ -1,5 +1,7 @@
 # PWA
 
+さっくりと調べてみました。  
+
 ## PWAとはなにか
 
 - iTuensStoreやGooglePlayを経由することなくアプリがインストールできる
@@ -11,25 +13,22 @@
 - デスクトップ版もある
 
 下記のサイトがわかりやすい  
-https://mya-ake.com/slides/pwa-will-provide-future-web#1  
+[PWAがもたらすこれからのwebの姿](https://mya-ake.com/slides/pwa-will-provide-future-web)  
 
-https://yapp.li/magazine/2292/
+[PWA Progressive Web Apps とは？ネイティブアプリ開発との違い](https://yapp.li/magazine/2292/)  
 
 ## PWAが利用されている企業
 
 一覧  
-https://mya-ake.com/slides/pwa-will-provide-future-web#26  
+[PWAは世界中で広まっている](https://mya-ake.com/slides/pwa-will-provide-future-web#26)  
 
 有名所だと  
 
-- suumo  
-https://suumo.jp/hokkaido/
+[suumo](https://suumo.jp/hokkaido/)  
 
-- starbucks  
-https://app.starbucks.com/
+[starbucks](https://app.starbucks.com/)  
 
-- 日経新聞  
-https://r.nikkei.com/
+[日経新聞](https://r.nikkei.com/)  
 
 ## デスクトップ版PWA
 
@@ -52,7 +51,7 @@ https://r.nikkei.com/
 - 再起動する
 
 - starbucksのサイトへ移動  
-https://app.starbucks.com/
+[starbucks](https://app.starbucks.com/)  
 
 - Chrome右上の設定項目をクリック
 
@@ -65,7 +64,7 @@ https://app.starbucks.com/
 
 めっちゃ簡単。  
 
-https://qiita.com/poster-keisuke/items/6651140fa20c7aa18474  
+[PWAをもっと簡単に初めてみる](https://qiita.com/poster-keisuke/items/6651140fa20c7aa18474)  
 
 ## メリット
 
@@ -84,7 +83,7 @@ https://qiita.com/poster-keisuke/items/6651140fa20c7aa18474
 ## デメリット
 
 - 完全にネイティヴアプリと同等にはできない  
-　　→逆に言えば、サイトをアプリ化するだけならこのデメリットは考えなくてよい
+　　→逆に言えば、サイトをアプリ化するだけならこのデメリットは考えなくてよい  
 
 - 新しい技術で、まだユーザーへの認知度がそこまで高くない
 
@@ -96,12 +95,11 @@ https://qiita.com/poster-keisuke/items/6651140fa20c7aa18474
 
 - 新しい技術で、まだ不明点も多い(本格的に調査すればある程度は明確にできる)
 
-公式サイト  
-https://developers.google.com/web/progressive-web-apps/?hl=ja  
+[公式サイト](https://developers.google.com/web/progressive-web-apps/?hl=ja)  
 
 ## スマホの現状
 
-- ユーザーの利用率は アプリ:85% Web:15%(2017年度)
-https://www.netratings.co.jp/news_release/2017/11/Newsrelease20171108.html
+- ユーザーの利用率は アプリ:85% Web:15%(2017年度)  
+[スマートフォンでは平均30個のアプリが利用され、利用時間の85%を占める](https://www.netratings.co.jp/news_release/2017/11/Newsrelease20171108.html)  
 
 - アプリ対応したほうが利用率が増えるかも？
